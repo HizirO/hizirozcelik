@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @hizirozcelik
 - 👀 I’m interested in Java applications.
-- 🌱 I’m currently learning Java Enterprise.
+- 🌱 I’m currently learning Java Enterprise, database design, bootstrap, Angular...
+- I am always keen on learning and developing my skills.
 - 📫 How to reach me https://www.linkedin.com/in/ozcelikhizir/
