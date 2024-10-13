@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hizirozcelik
 - 👀 I’m interested in full stack applications.
-- 🌱 Java Springboot, ASP .NET ...
+- 🌱 Java Springboot...
 - I am always keen on learning and developing my skills.
 - www.hizirozcelik.com
 - 📫 How to reach me https://www.linkedin.com/in/ozcelikhizir/
